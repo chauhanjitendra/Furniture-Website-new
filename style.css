@@ -17,7 +17,7 @@ html::-webkit-scrollbar{
     width: 10px;
 }
 body{
-    background: white;
+    background: gray;
 }
 
 /* Header Start */
@@ -601,26 +601,26 @@ form textarea{
 
 /* Review Section Start */
 .review{
-    padding: 120px 8% 120px;
-    background: white;
+    /* padding: 120px 8% 120px; */
+    background: gray;
 }
 .review-content{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, auto));
     align-items: center;
     gap: 2.5rem;
-    margin-top: 5rem;
+    margin-top: 2rem;
 }
 .box{
     background: #f3f3f3;
     padding: 35px 45px;
-    height: 50vh;
+    /* height: 50vh; */
     border-radius: 8px;
     transition: 0.5s ease;
     text-align: center;
 }
 .img img{
-    width: 100px;
+    /* width: 100px; */
     border-radius: 100px;
 }
 .review .star i{
@@ -641,7 +641,7 @@ form textarea{
 /* Footer Start */
 #footer{
     width: 100%;
-    background: #f3f3f3;
+    background: blue;
 }
 .footer-content{
     text-align: center;
@@ -684,6 +684,7 @@ form textarea{
 /* Footer End */
 html{
     scroll-behavior: smooth;
+    background-color: #388b6f;
 }
 .arrow{
     position: fixed;
