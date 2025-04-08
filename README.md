@@ -1,5 +1,5 @@
 [Furniture-Website-new] ( https://chauhanjitendra.github.io/Furniture-Website-new/)
-# 🪑✨ Furniture Website – Elegant & Cozy Vibes
+# 🪑✨Furniture-Website-new
 
 Welcome to the **Furniture Website** — a modern, stylish, and minimal landing page made with ❤️ using **HTML** and **CSS**. Designed to showcase furniture pieces beautifully with clean layouts, cozy colors, and smooth UI.
 
